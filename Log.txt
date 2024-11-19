@@ -1,0 +1,42 @@
+19.11.2024 21:54:29: [INFO] Program started.
+19.11.2024 21:54:35: [INFO] User entered valid input: 80
+19.11.2024 21:54:35: [INFO] Creating and shuffling barrels...
+19.11.2024 21:54:35: [INFO] Barrels shuffled successfully.
+19.11.2024 21:54:40: [INFO] Barrel 1 retrieved: 28
+19.11.2024 21:54:43: [INFO] Barrel 2 retrieved: 43
+19.11.2024 21:54:44: [INFO] Barrel 3 retrieved: 15
+19.11.2024 21:54:45: [INFO] Barrel 4 retrieved: 23
+19.11.2024 21:54:45: [INFO] Barrel 5 retrieved: 18
+19.11.2024 21:54:45: [INFO] Barrel 6 retrieved: 38
+19.11.2024 21:54:45: [INFO] Barrel 7 retrieved: 69
+19.11.2024 21:54:46: [INFO] Barrel 8 retrieved: 35
+19.11.2024 21:54:47: [INFO] Barrel 9 retrieved: 65
+19.11.2024 21:54:47: [INFO] Barrel 10 retrieved: 47
+19.11.2024 21:54:51: [INFO] User exited the game.
+19.11.2024 21:54:51: [INFO] Program ended.
+19.11.2024 21:56:35: [INFO] Program started.
+19.11.2024 21:56:38: [ERROR] Invalid input wdscfsd. User must enter a positive integer lower than 100.
+19.11.2024 21:56:43: [ERROR] Invalid input 8789. User must enter a positive integer lower than 100.
+19.11.2024 21:56:46: [ERROR] Invalid input 100. User must enter a positive integer lower than 100.
+19.11.2024 21:56:49: [INFO] User entered valid input: 99
+19.11.2024 21:56:49: [INFO] Creating and shuffling barrels...
+19.11.2024 21:56:49: [INFO] Barrels shuffled successfully.
+19.11.2024 21:56:58: [INFO] Barrel 1 retrieved: 74
+19.11.2024 21:57:00: [INFO] Barrel 2 retrieved: 36
+19.11.2024 21:57:02: [INFO] Barrel 3 retrieved: 42
+19.11.2024 21:57:06: [INFO] User exited the game.
+19.11.2024 21:57:06: [INFO] Program ended.
+19.11.2024 21:57:46: [INFO] Program started.
+19.11.2024 21:57:51: [INFO] User entered valid input: 8
+19.11.2024 21:57:51: [INFO] Creating and shuffling barrels...
+19.11.2024 21:57:51: [INFO] Barrels shuffled successfully.
+19.11.2024 21:57:55: [INFO] Barrel 1 retrieved: 6
+19.11.2024 21:57:55: [INFO] Barrel 2 retrieved: 8
+19.11.2024 21:57:56: [INFO] Barrel 3 retrieved: 2
+19.11.2024 21:57:56: [INFO] Barrel 4 retrieved: 3
+19.11.2024 21:57:57: [INFO] Barrel 5 retrieved: 1
+19.11.2024 21:57:57: [INFO] Barrel 6 retrieved: 5
+19.11.2024 21:57:57: [INFO] Barrel 7 retrieved: 4
+19.11.2024 21:57:58: [INFO] Barrel 8 retrieved: 7
+19.11.2024 21:57:58: [INFO] User retrieved all barrels.
+19.11.2024 21:57:58: [INFO] Program ended.
